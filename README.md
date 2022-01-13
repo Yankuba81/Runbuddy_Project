@@ -2,6 +2,7 @@
 
 ## Purpose
 A website that offers fitness training services. 
+thank you
 
 ## Built With
 * HTML
